@@ -15,7 +15,6 @@ The code from the top teams in the 2021 AI City Challenge (not in any particular
 
 ## Track 4: Traffic Anomaly Detection
 * [ByteDance - Team158](https://github.com/WuJie1010/AICity2021-Anomaly-Detection) (Private)
-)
 
 ## Track 5: Natural Language-Based Vehicle Retrieval
 * [ShandongU XiDianU ShandongJianzhuU - Team17](https://github.com/okzhili/AICITY2021_Track5_DUN)
