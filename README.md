@@ -3,7 +3,7 @@ The code from the top teams in the 2021 AI City Challenge (not in any particular
 
 ## Track 1: Multi-Class Multi-Movement Vehicle Counting Using IoT Devices
 * [Comenius University - Team134](https://github.com/kocurvik/aicc)
-
+* [Vanderbilt University - Team95](https://github.com/DerekGloudemans/LBT-count)
 
 ## Track 2: City-Scale Multi-Camera Vehicle Re-Identification
 * [Alibaba - Team47](https://github.com/michuanhaohao/AICITY2021_Track2_DMT)
@@ -18,5 +18,6 @@ The code from the top teams in the 2021 AI City Challenge (not in any particular
 )
 
 ## Track 5: Natural Language-Based Vehicle Retrieval
-
+* [ShandongU XiDianU ShandongJianzhuU - Team17](https://github.com/okzhili/AICITY2021_Track5_DUN)
+* [Modulabs NAVERCorp KookminU - Team6](https://github.com/lsrock1/nlp_search)
 
