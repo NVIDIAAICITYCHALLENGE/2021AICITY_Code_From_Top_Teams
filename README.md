@@ -7,11 +7,13 @@ The code from the top teams in the 2021 AI City Challenge (not in any particular
 * [SungkyunkwanU - Team8](https://github.com/SKKU-AutoLab-VSW/AIC2021_Track1_SKKU_Automation_Lab) (Private)
 * [HCMUTE - Team19](https://github.com/ThangLehcmute/AIC21-track1-team19)
 * [HCMIU - Team5](https://github.com/nhatchung14/AICC-Team5-TinyPIRATE) (Private)
+* [Baidu - Team37](https://github.com/troylujc/AICity2021-Track1-VehicleCounting) (Private) 
 
 ## Track 2: City-Scale Multi-Camera Vehicle Re-Identification
 * [Alibaba - Team47](https://github.com/michuanhaohao/AICITY2021_Track2_DMT)
 * [Baidu UTS - Team9](https://github.com/Xuanmeng-Zhang/AICITY2021-Track2) (Private)
 * [CybercoreAI - Team61](https://github.com/cybercore-co-ltd/track2_aicity_2021)
+* [Fiberhome - Team35](https://github.com/yonger001/AICITY2021_Track2_FiberHome) (Private)
 
 
 ## Track 3: City-Scale Multi-Camera Vehicle Tracking
@@ -24,6 +26,7 @@ The code from the top teams in the 2021 AI City Challenge (not in any particular
 ## Track 4: Traffic Anomaly Detection
 * [ByteDance - Team158](https://github.com/WuJie1010/AICity2021-Anomaly-Detection) (Private)
 * [Baidu CAS - Team76](https://github.com/Endeavour10020/AICity2021-Anomaly-Detection) (Private)
+* [WuhanU - Team92](https://github.com/JingyuanChen1423/AICity_2021_Anomaly_Detection) (Private)
 
 ## Track 5: Natural Language-Based Vehicle Retrieval
 * [ShandongU XiDianU ShandongJianzhuU - Team17](https://github.com/okzhili/AICITY2021_Track5_DUN)
