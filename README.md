@@ -11,18 +11,25 @@ The code from the top teams in the 2021 AI City Challenge (not in any particular
 ## Track 2: City-Scale Multi-Camera Vehicle Re-Identification
 * [Alibaba - Team47](https://github.com/michuanhaohao/AICITY2021_Track2_DMT)
 * [Baidu UTS - Team9](https://github.com/Xuanmeng-Zhang/AICITY2021-Track2) (Private)
+* [CybercoreAI - Team61](https://github.com/cybercore-co-ltd/track2_aicity_2021)
 
 
 ## Track 3: City-Scale Multi-Camera Vehicle Tracking
 * [UCAS Alibaba - Team75](https://github.com/LCFractal/AIC21-MTMC)
+* [AiForward - Team15](https://github.com/zxcver/spatio-time-mtmc)
+* [Baidu - Team29](https://github.com/Yejin0111/AICITY2021-Track3-MTMC) (Private)
+* [Fiberhome - Team27](https://github.com/rpf1019/aic21_trk3/tree/master) (Private)
 
 
 ## Track 4: Traffic Anomaly Detection
 * [ByteDance - Team158](https://github.com/WuJie1010/AICity2021-Anomaly-Detection) (Private)
+* [Baidu CAS - Team76](https://github.com/Endeavour10020/AICity2021-Anomaly-Detection) (Private)
 
 ## Track 5: Natural Language-Based Vehicle Retrieval
 * [ShandongU XiDianU ShandongJianzhuU - Team17](https://github.com/okzhili/AICITY2021_Track5_DUN)
 * [Modulabs NAVERCorp KookminU - Team6](https://github.com/lsrock1/nlp_search)
 * [Alibaba UTS ZhejiangU - Team132](https://github.com/ShuaiBai623/AIC2021-T5-CLV)
 * [UMRE UF UP - Team51](https://github.com/cscribano/AYCE_2021)
+* [SunAsterisk - Team20](https://github.com/SamsonPh/AICity2021-Track5)
+* [HCMUS - Team13](https://github.com/selab-hcmus/AI_City_2021)
 
